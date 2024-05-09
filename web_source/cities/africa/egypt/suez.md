@@ -1,12 +1,12 @@
 # Suez
 
-## Description 1 added to this file 20240509
+## Description 2 added to this file 20240509
 
 Country: Egypt (Africa)
 
 ##### Also known as:
 
-Suways
+Suways 
 
 ### What we would like to see there
 
