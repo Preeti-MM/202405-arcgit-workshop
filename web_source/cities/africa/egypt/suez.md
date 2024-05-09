@@ -1,14 +1,16 @@
 # Suez
 
+## Description 1 added to this file 20240509
+
 Country: Egypt (Africa)
 
 ##### Also known as:
 
-FIXME
+Suways
 
 ### What we would like to see there
 
-FIXME
+Port and hostoric buildings 
 
 ### Extra information
 
